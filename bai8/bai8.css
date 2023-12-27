@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    text-align: center;
+}
+#header{
+    height: 50px;
+    background-color: rgb(196, 167, 167);
+    color: rgb(68, 66, 66);
+}
+.form_heading{
+    padding-top: 10px;
+}
+#body{
+    margin-top: 20px;
+}
+p{
+    font-weight: 600;
+    color: rgb(73, 70, 70);
+}

@@ -1,0 +1,19 @@
+#container{
+    height: 550px;
+    width: 300px;
+    background-color: beige;
+    border-radius: 2%;
+    border: 1px solid beige;
+}
+#body{
+    margin: 20px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 4%;
+}
+td{
+    color: grey;
+}
+table{
+    width: 100%;
+}

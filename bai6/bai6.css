@@ -1,0 +1,28 @@
+#body{
+text-align: center;
+}
+#header{
+    margin-top: 20px;
+    display: inline-block;
+    text-align: center;
+    height: 0.5%;
+    width: 200px;
+    background-color: rgb(112, 93, 64);
+    border-radius: 4%;
+}
+.form_heading{
+    color: white;
+}
+b{
+    color: brown;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border-radius: 5%;
+}
+.button1{
+    margin-right: 20px;
+}
